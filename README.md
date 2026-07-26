@@ -70,9 +70,11 @@ This project analyses the Netflix Movies and TV Shows dataset from Kaggle. The d
 
 ## 📁 Project Files
 
-📄 Netflix.pbix
+📄 Netflix.ipynb
 
 📄 netflix_cleaned.csv
+
+📄 netflix_titles.csv
 
 🖼️ Dashboard Screenshot
 
